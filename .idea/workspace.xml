@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b5bb0ba-55c4-4933-ad54-10551e0f3cb7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Break and Continue/Break/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Break and Continue/Continue/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Break and Continue/Labels/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/All of Enum Object/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Anonymous Class in Enumeration/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Enum Object Value/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Enum Position/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Enumeration/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/Enumeration with When Expression/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/enumValues/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Enumeration/valueOf/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Expression and Statement/Expression/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Expression and Statement/Statement/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Latihan/Latihan/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/For Loop/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/For Loop Index/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/For Loop with Range/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/For Loop with Step Extension/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/ForEach/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/ForEachIndexed/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/Range/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/Range ForEach/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/Range with `!in` Operator/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/Range and For loop/Range with `in` Operator/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/Multiple statement in Condition block/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When as a Expression/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When subject/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When with `is` operator/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When with Else block/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/When Expression/When with Range as a Condition/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/While and Do While/Do While/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/While and Do While/Infinite While/out/" />
+    <ignored path="$PROJECT_DIR$/Control Flow/While and Do While/While/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Channels/Contoh/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Dispatcher.Default/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Dispatcher.IO/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Dispatcher.Unconfined/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Single Thread Context/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Coroutine Dispatcher/Thread Pool/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 1/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 2/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 3/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 4/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 5/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/latihan/Latihan/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Memulai Coroutine/Contoh 1/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Memulai Coroutine/Contoh 2/out/" />
+    <ignored path="$PROJECT_DIR$/Coroutines/Memulai Coroutine/Contoh 3/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections/Collections/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections/Maps/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections/Sets/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/count/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/filter and filterNot/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/find/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/first/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/map/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/sorted/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Collections Operations/sum/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Comparing data class/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Copying data class objects/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Create variables based on data class objects/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Data Class/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Destructuring Declarations/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Different data class with class/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Data Class/Modify the data class object/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Latihan/latihan/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Sequences/Sequences Initialization/out/" />
+    <ignored path="$PROJECT_DIR$/Data Class dan Collections/Sequences/Sequences Initialization with generateSequence/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Distinct/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Drop/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Fold/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Slice/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Advanced Collection Function/Take/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Extensions/Contoh 1/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Extensions/Contoh 2/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Extensions/Contoh 3/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Extensions/Contoh 4/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Function Inside Function/Inner function/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Function Type/Contoh 1/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Function Type/Contoh 2/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Function Type/Contoh 3/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 1/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 2/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 3/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 4/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Lambda/Contoh 5/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Latihan/Latihan/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/also/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/apply/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/let/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/run/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Library Helper/with/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Member References/Function References/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Member References/Property References/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 1/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 2/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 3/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 4/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Recursion/Recursion Initilization/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Recursion/Tail Recursion/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Argument/also/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Argument/let/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Receiver/apply/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Receiver/run/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Scope Function with Lambda Receiver/with/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Vararg Argument/Contoh 1/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Vararg Argument/Contoh 2/out/" />
+    <ignored path="$PROJECT_DIR$/Functional/Vararg Argument/Contoh 3/out/" />
+    <ignored path="$PROJECT_DIR$/Generics/Generics/Contoh 1/out/" />
+    <ignored path="$PROJECT_DIR$/Generics/Generics/Contoh 2/out/" />
+    <ignored path="$PROJECT_DIR$/Generics/Generics/Contoh 3/out/" />
+    <ignored path="$PROJECT_DIR$/Generics/Latihan/Latihan/out/" />
+    <ignored path="$PROJECT_DIR$/Generics/Variance/Contoh/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Boolean/Conjuction/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Boolean/Disjunction/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Boolean/Negation/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Array Initialization/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Char in String/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Character/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Escaped String/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Raw String/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/String/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Unicode String/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Data Type/Update Array/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Function/Function Initilization/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 1/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/If Expression/If/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/If Expression/If as a Expression/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/If Expression/If Else/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/If Expression/If Else If/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Latihan/Latihan/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Nullable Types/Nullable Types/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Numbers/Number Initilization/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Numbers/Number operation/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Numbers/Number with max and min values/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Numbers/String to Number/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/Safe Call and Elvis Operator/Safe Call Operator/out/" />
+    <ignored path="$PROJECT_DIR$/Kotlin Fundamental/String Template/String Template/out/" />
+    <ignored path="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/out/" />
+    <ignored path="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/out/" />
+    <ignored path="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Abstract Class/Contoh/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Classes/Contoh/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Constructor/Contoh 1/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Constructor/Contoh 2/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Constructor/Contoh 3/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Constructor/Contoh 4/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Exception Handling/Contoh 1/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Exception Handling/Contoh 2/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Exception Handling/Contoh 3/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Extension Properties/Contoh/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Import dan Packages/Contoh 1/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Import dan Packages/Contoh 2/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Import dan Packages/Contoh 3/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Inheritances/Contoh/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Interfaces/Contoh/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Latihan/Latihan/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Object Everywhere/Contoh 1/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Object Everywhere/Contoh 2/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Overloading/Contoh/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Properties/Contoh/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Property Delegation/Contoh/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/internal/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/private/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/protected/out/" />
+    <ignored path="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/public/out/" />
+    <ignored path="$PROJECT_DIR$/util/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Control Flow/Enumeration/Enumeration/src/App.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState />
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/public/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Object-Oriented/Visibility Modifiers/protected/src/App.kt" />
+        <option value="$PROJECT_DIR$/Coroutines/Job dan Deferred/Contoh 5/src/App.kt" />
+        <option value="$PROJECT_DIR$/Coroutines/Channels/Contoh/src/App.kt" />
+        <option value="$PROJECT_DIR$/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 1/src/latihan.kt" />
+        <option value="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Control Flow/Latihan/Latihan/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Data Class dan Collections/Latihan/latihan/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Functional/Latihan/Latihan/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Object-Oriented/Latihan/Latihan/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Generics/Latihan/Latihan/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Coroutines/latihan/Latihan/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Kotlin Fundamental/Latihan/Latihan/src/Task.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Memulai_Pemrograman_dengan_Kotlin" type="a264ea2a:RootNode" />
+              <item name="Memulai Pemrograman dengan Kotlin" type="ed842865:CourseNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Object-Oriented-Visibility_Modifiers-public" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TaskKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b5bb0ba-55c4-4933-ad54-10551e0f3cb7" name="Default Changelist" comment="" />
+      <created>1568938737266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568938737266</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Build Variants" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.16897655" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Structure" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Build" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.033333335" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="3" weight="0.19222222" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Flutter Inspector" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Flutter Outline" order="3" />
+      <window_info anchor="right" id="Task" order="4" visible="true" weight="0.24466951" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Build Variants" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.16897655" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Structure" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Build" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.033333335" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="3" weight="0.033333335" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Flutter Inspector" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Flutter Outline" order="3" />
+      <window_info anchor="right" id="Task" order="4" visible="true" weight="0.24466951" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Data Class dan Collections/Collections Operations/first/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Class dan Collections/Collections Operations/sum/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Class dan Collections/Collections Operations/sorted/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Class dan Collections/Sequences/Sequences Initialization/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Class dan Collections/Sequences/Sequences Initialization with generateSequence/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Class dan Collections/Latihan/latihan/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 2/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 1/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 3/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Named and Default Argument/Contoh 4/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Vararg Argument/Contoh 1/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Vararg Argument/Contoh 2/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Vararg Argument/Contoh 3/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Extensions/Contoh 1/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Extensions/Contoh 2/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Extensions/Contoh 3/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Extensions/Contoh 4/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Lambda/Contoh 1/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Lambda/Contoh 2/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Lambda/Contoh 3/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Lambda/Contoh 4/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Lambda/Contoh 5/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Function Type/Contoh 1/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Function Type/Contoh 2/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Function Type/Contoh 3/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Library Helper/run/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Library Helper/with/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Library Helper/apply/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Library Helper/let/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Library Helper/also/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Scope Function with Lambda Receiver/run/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Scope Function with Lambda Receiver/with/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Scope Function with Lambda Receiver/apply/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Scope Function with Lambda Argument/let/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Scope Function with Lambda Argument/also/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Member References/Function References/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Member References/Property References/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Function Inside Function/Inner function/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Advanced Collection Function/Fold/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Advanced Collection Function/Drop/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Advanced Collection Function/Take/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Advanced Collection Function/Slice/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Advanced Collection Function/Distinct/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Recursion/Recursion Initilization/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Recursion/Tail Recursion/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functional/Latihan/Latihan/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Control Flow/Latihan/Latihan/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kotlin Fundamental/Latihan/Latihan/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="462">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Control Flow/Enumeration/Enumeration/src/App.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android-Gradle</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>util</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: annotations-13.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
